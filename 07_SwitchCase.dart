@@ -4,6 +4,7 @@
 
 void main() {
 
+  // Pretty much like If & Else, except it is only avaiable for int and String
   String grade = 'A';
 
   switch (grade) {
